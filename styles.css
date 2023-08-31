@@ -43,13 +43,17 @@ main {
     padding: 20px;
 }
 
+/* This is a comment */
 main img {
-    max-width: 10%;
+    max-width: 50%;
     height: auto;
     margin: 10px;
     border: 2px solid #ddd;
     border-radius: 5px;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* This is a comment */
 .image-container h2 {
