@@ -51,6 +51,18 @@ main img {
     border-radius: 5px;
 }
 
+/* This is a comment */
+.image-container h2 {
+    color: orange; /* This sets the color of the h2 element to orange */
+  }
+  
+  .image-container p {
+    color: rgb(255, 255, 255); /* This sets the color of the p element to white */
+  }
+
+
+
+
 /* Style footer */
 footer {
     background-color: #333;
