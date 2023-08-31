@@ -240,4 +240,8 @@ nav a:hover {
         font-size: 16px;
     }
 }
-
+/* This is a comment */
+#about p {
+    color: purple; /* This sets the color of the paragraph to purple */
+  }
+  
